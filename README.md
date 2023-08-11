@@ -22,7 +22,7 @@
 - 👨‍🦽 Physical Disability (Arthrodesis)
 - 🌱 I’m currently learning 👉 Swift, SwiftUI
 
-  <a href="jhonsidr@gmail.com" alt="Gmail">
+  <a href="mailto:jhonsidr@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
   <a href="https://www.linkedin.com/in/jhonatansidronio/" alt="LinkedIn">
