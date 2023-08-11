@@ -22,11 +22,11 @@
 - 👨‍🦽 Physical Disability (Arthrodesis)
 - 🌱 I’m currently learning 👉 Swift, SwiftUI
 
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=jhonsidr@gmail.com" /></a>
+  <a href="jhonsidr@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   
-  <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatansidronio/" /></a>
+  <a href="https://www.linkedin.com/in/jhonatansidronio/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <p id ="skills" align="left"></p>
 
