@@ -32,7 +32,7 @@
 
 ## 💪 Skills
 
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple"/></code>&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode"/></code>&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode"/>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
