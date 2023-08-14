@@ -19,7 +19,6 @@
 
 ## 💻 About me 
 
-- 👨‍🦽 Physical Disability (Arthrodesis)
 - 🌱 I’m currently learning 👉 Swift, SwiftUI
 
   <a href="mailto:jhonsidr@gmail.com" alt="Gmail">
