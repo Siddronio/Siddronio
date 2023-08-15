@@ -19,7 +19,7 @@
 
 ## 💻 About me 
 
-- 🌱 I’m currently learning 👉 Swift, SwiftUI
+- 🌱 I’m currently learning 👉 Swift
 
   <a href="mailto:jhonsidr@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
