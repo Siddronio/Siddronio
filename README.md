@@ -19,6 +19,7 @@
 
 ## 💻 About me 
 
+- 👨‍🦽 Posterior Spinal Fusion - Arthrodesis
 - 🌱 I’m currently learning 👉 Swift
 
   <a href="mailto:jhonsidr@gmail.com" alt="Gmail">
@@ -33,5 +34,7 @@
 
 <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="Apple"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="50" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" alt="Xcode"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="50" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Xcode"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
